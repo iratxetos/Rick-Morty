@@ -1,0 +1,89 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+
+  @include tablet {
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    
+  }
+  
+  &__firstPart{
+    border:  3px solid #62ff00 ;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 20px 2px rgb(98, 255, 0);
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    @include smallScreen {
+     padding: 10px;
+     margin-bottom: 20px;
+      }
+
+    @include tablet {
+      padding: 50px;   
+    width: 45%; }
+     
+    &--filterByName, &--filterBySpecies{
+      margin: 10px 0;
+      border: 2px solid #ddd;
+      border-radius: 0.5rem;
+      background-color:   #f8f8f8;
+      width: 70%;
+    }
+    }
+
+      &__secondPart{
+        border:  3px solid #00CBFF ;
+        border-radius: 0.5rem;
+        box-shadow: 0 0 20px 2px rgb(0, 203, 255 );
+        padding: 35px 25px;
+        
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+
+        @include smallScreen {
+          padding: 10px;
+           }
+
+        @include tablet {
+          padding: 50px 30px; 
+          justify-content: center;
+          width: 45%;   }
+         
+        &--filterByStatus{
+          margin: 10px 0;
+          border: 2px solid #ddd;
+          border-radius: 0.5rem;
+          background-color:   #f8f8f8;
+        }
+
+         .input-label-part{
+           display: flex;
+
+           .input-label-partOne{
+             padding-right: 20px;
+
+             .input-label{
+                margin-left: 10px;
+              }
+           }
+
+           .input-label-partTwo{
+                       .input-label {
+               margin-left: 10px;
+                         }
+                          // input[type=radio]
+                          // { border: solid 3px; }
+               }
+          }
+         }
+        }
+    

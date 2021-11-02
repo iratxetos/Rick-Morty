@@ -1,0 +1,49 @@
+.rick{
+    transform: translate(75px, -130px);
+    width: 100px;
+    height: auto;
+    z-index: -1;
+    margin-bottom: -100px;
+  
+    @include smallScreen {
+      display:none;
+      }
+  
+    @include tablet {
+      display:none;
+    }
+  
+    
+  }
+  
+  
+  
+  .rickAndMorty{
+    display:none;
+  
+    @include tablet {
+      display: block;
+      transform: translate(-80%, -20px);
+      width: 150px;
+      height: auto;
+      //  z-index: -1;
+      margin-bottom: -120px;  }
+  
+      @include desktop{
+        display: none;
+      }
+  }
+  
+  .all{
+    display:none;
+  
+    @include desktop {
+      display: block;
+      transform: translate(200px, -140px);
+      width: 200px;
+      height: auto;
+      z-index: -1;
+      margin-bottom: -200px;  }
+  }
+  
+  

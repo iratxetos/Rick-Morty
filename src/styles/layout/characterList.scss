@@ -1,0 +1,20 @@
+.character__list{
+   display: grid;
+   grid-template-columns: 1fr ;
+   align-self: center;
+   align-items: center;
+   justify-items: center;
+   width: 100%;
+
+     @include tablet {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    
+   }
+
+   @include desktop {
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+     }
+   
+}

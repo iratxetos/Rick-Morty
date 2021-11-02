@@ -1,0 +1,61 @@
+.buttons{
+    @include tablet {
+        display: flex;
+        flex-direction: row;
+        }
+}
+
+.resetbutton{
+    border:  3px solid #F4FF00 ;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 20px 2px rgb(244, 255, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 5px;
+    width: 90%;
+    cursor: pointer;
+
+    &:hover{
+        background-color:#F4FF00;
+        color: black;
+    }
+
+    @include tablet {
+        width: 45%;
+        margin-left: auto;    
+        margin-right: auto; 
+               
+      }
+
+      }
+
+.randombutton{
+    border:  3px solid #C200FF  ;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 20px 2px rgb(194, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 5px;
+    width: 90%;
+    cursor: pointer;
+
+    &:hover{
+        background-color:#C200FF ;
+        color: black;
+    }
+
+    @include tablet {
+        width: 45%;
+        margin-left: auto;    
+        margin-right: auto; 
+               
+      }
+
+     
+}
+
+

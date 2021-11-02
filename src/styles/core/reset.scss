@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik';
+  font-size: 16px;
+  box-sizing: border-box;
+
+  @include smallScreen {
+    font-size: 10px;
+    }
+  
+   li{
+   list-style: none;
+   cursor: pointer;
+
+  a:link, a:visited { 
+      text-decoration: none }
+      cursor: pointer;
+    }
+   }
+  
+.filtered__data{
+    margin: 20px;
+    @include tablet {
+        margin:40px;  
+    ;}
+}
+
+body{
+    border: solid #FF339C ;
+    border-radius: 0.5rem;
+    border-width: 3px;
+    
+}
+
+a{
+    cursor: pointer;
+}
+
