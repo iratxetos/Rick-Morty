@@ -1,21 +1,21 @@
-# Modulo 3 - Evaluación final -Iratxetos 
+# Module 3 - Final exercise -Iratxetos 
 
-👋 ¡Hola!
+👋 ¡Hi!
 
-Esta es mi **evaluación final** del módulo 3 para el Bootcamp de Adalab 👩
+This is my **final evaluation** of the module 3 for the Adalab Bootcamp 👩
 
-Hecho con las tecnologías:
-
-
- ![Html](./src/images/2.png) ![Css](./src/images/4.png) ![Javascript](./src/images/3.png) ![React](./src/images/5.png) ![Sass](./src/images/6.png) ![Node](./src/images/1.png)
+Made with technologies:
 
 
-📢 Estoy aprendiendo, estaré encantada de escuchar comentarios de mejora.
+ ! [Html] (./ src / images / 2.png)! [Css] (./ src / images / 4.png)! [Javascript] (./ src / images / 3.png)! [React] (./src/images/5.png)! [Sass] (./ src / images / 6.png)! [Node] (./ src / images / 1.png)
 
-**Gracias** por tu visita 💁‍♀️
 
-Conecta conmigo en el siguiente ícono:
-[📩](https://www.linkedin.com/in/iratxe-martin-perez/)
+📢 I'm learning, I'll be happy to hear feedback for improvement.
+
+**Thank you** for your visit 💁‍♀️
+
+Connect with me on the following icon:
+[📩] (https://www.linkedin.com/in/iratxe-martin-perez/)
 
 
 **Iratxe.**
