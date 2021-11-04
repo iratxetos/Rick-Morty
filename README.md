@@ -15,7 +15,7 @@ Made with technologies:
 **Thank you** for your visit 💁‍♀️
 
 Connect with me on the following icon:
-[📩] (https://www.linkedin.com/in/iratxe-martin-perez/)
+[📩](https://www.linkedin.com/in/iratxe-martin-perez/)
 
 
 **Iratxe.**
