@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.dea50b93.chunk.css",
-    "main.js": "./static/js/main.5a2bba79.chunk.js",
-    "main.js.map": "./static/js/main.5a2bba79.chunk.js.map",
+    "main.js": "./static/js/main.2f828d81.chunk.js",
+    "main.js.map": "./static/js/main.2f828d81.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ccbdb9fa.js",
     "runtime-main.js.map": "./static/js/runtime-main.ccbdb9fa.js.map",
     "static/js/2.94223346.chunk.js": "./static/js/2.94223346.chunk.js",
@@ -13,7 +13,6 @@
     "static/media/all.556b4251.gif": "./static/media/all.556b4251.gif",
     "static/media/ivan.c4c2f327.jpg": "./static/media/ivan.c4c2f327.jpg",
     "static/media/logo.de13d484.png": "./static/media/logo.de13d484.png",
-    "static/media/morty.9a540fc3.gif": "./static/media/morty.9a540fc3.gif",
     "static/media/next.0f943e63.jpg": "./static/media/next.0f943e63.jpg",
     "static/media/rick.1f2dae1f.gif": "./static/media/rick.1f2dae1f.gif",
     "static/media/rickAndMorty.b90f1f7d.gif": "./static/media/rickAndMorty.b90f1f7d.gif"
@@ -22,6 +21,6 @@
     "static/js/runtime-main.ccbdb9fa.js",
     "static/js/2.94223346.chunk.js",
     "static/css/main.dea50b93.chunk.css",
-    "static/js/main.5a2bba79.chunk.js"
+    "static/js/main.2f828d81.chunk.js"
   ]
 }
